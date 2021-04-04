@@ -9,8 +9,8 @@
 /coverage
 
 # production
-giuliani-app-client/build
-server/build
+/build
+
 
 # misc
 .DS_Store
